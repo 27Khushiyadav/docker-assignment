@@ -2,12 +2,12 @@
 # Project Assignment 1
 ## Topic:- Containerized Web Application with PostgreSQL - Using Docker Compose and Macvlan/Ipvlan
 Submitted by: Khushi Yadav
-SAP ID:- 500119315
-Batch :- 2
-Date: 16th March 2026
+- SAP ID:- 500119315
+- Batch :- 2
+- Date: 16th March 2026
           
 ## Objectives
-•	Deploy a FastAPI backend with full REST API endpoints
+- •	Deploy a FastAPI backend with full REST API endpoints
 •	Configure a PostgreSQL database with persistent named volume storage
 •	Write optimized multi-stage Dockerfiles for both services
 •	Use Docker Compose for full stack orchestration
