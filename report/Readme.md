@@ -1,4 +1,4 @@
-# 🚀 Containerized Web Application with PostgreSQL
+# Containerized Web Application with PostgreSQL
 ## 1.  INTRODUCTION
 
 ##### This report documents the design, implementation, and deployment of a containerized web application using Docker. The application consists of a FastAPI (Python) backend and a PostgreSQL database, orchestrated using Docker Compose. The project demonstrates production-ready container practices including multi-stage builds, persistent storage, static IP assignment, and service orchestration.

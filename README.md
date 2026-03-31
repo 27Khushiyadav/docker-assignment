@@ -16,4 +16,8 @@ Submitted by: Khushi Yadav
 -	Document Macvlan vs Ipvlan networking concepts with comparison
 
 ## Project Report 
+ [Project Report](./Report/Readme.md)
+
 ## Step By Step Report
+[Step by step Report](./database/Readme.md)
+
